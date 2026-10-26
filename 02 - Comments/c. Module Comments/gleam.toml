@@ -1,0 +1,8 @@
+name = "demo"
+version = "1.0.0"
+target = "erlang"
+description = "Minimal runnable Gleam example."
+licences = ["EUPL-1.2"]
+
+[dependencies]
+gleam_stdlib = ">= 1.0.0 and < 2.0.0"
